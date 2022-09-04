@@ -2,7 +2,18 @@ TOPIC IDEAS
 
 
 Server Deployment- Learning in the ins and outs of different programs used to bring a Server from 
-the box to a machine capable of handling whatever requires are being set for the device
+the box to a machine capable of handling whatever requires are being set for the device. 
+Why?
+I am heading into this topic because I spent the majority of my summer at an Internship with Honeywell where I got a lot of exporsure
+to these types of enviorments as well as Vcenter and Vsphere. This project would entail me being an enviorment from scratch
+and documenting the entire processs to create a guide on how to deploy a server from scratch using the software I choose
 
 Security+ Exam- I would work towards completeling my Security+ Certificaiton as well as any other 
-that I could complete within the time frame 
+that I could complete within the time frame. 
+Why?
+I also spent my summer studying briefly for my Security+
+cert. I also got the chance to speak with some really experienced Cybersecurity engineers at Honeywell that told me 
+that this cert along with many others are some of the most important tools I can bring into an interview. This 
+topic will entail me studying for the Cert as well as speaking to other classmates about the importance of this Cert,
+I would also be interesting in creating a formal proposal for a class that helps students get this Certification before 
+they get out of school
